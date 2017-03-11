@@ -1,7 +1,7 @@
 {
-  "name": "rc-calendar",
-  "version": "7.6.7",
-  "description": "React Calendar",
+  "name": "rc-calendar-dmparts",
+  "version": "1.0.2",
+  "description": "React Calendar for dmparts customized",
   "keywords": [
     "react",
     "react-calendar",
@@ -18,16 +18,16 @@
   ],
   "main": "lib/index",
   "entry": {
-    "rc-calendar": ["./assets/index.less", "./src/index.js"]
+    "rc-calendar-dmparts": ["./assets/index.less", "./src/index.js"]
   },
-  "homepage": "http://github.com/react-component/calendar",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/sendy511/calendar",
+  "author": "jasondou@live.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/calendar.git"
+    "url": "git@github.com:sendy511/calendar.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/calendar/issues"
+    "url": "https://github.com/sendy511/calendar/issues"
   },
   "licenses": "MIT",
   "config": {
